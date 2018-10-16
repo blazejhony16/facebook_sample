@@ -1,3 +1,0 @@
-# facebook_sample
-A fun project made by us as a part of learning process.
-Here we aimed at making facebook login/signup page...
