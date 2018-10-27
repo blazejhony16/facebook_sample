@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+fonts: add font.style.(jekyll-them)
+bgcolor: import@css.stylingElementById 
